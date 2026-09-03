@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="840" viewBox="0 0 1600 840">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset="1" stop-color="#172554"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-opacity=".3"/></filter></defs>
+<rect width="1600" height="840" fill="url(#g)"/>
+<circle cx="1360" cy="120" r="240" fill="#2563eb" opacity=".18"/><circle cx="190" cy="760" r="280" fill="#14b8a6" opacity=".14"/>
+<text x="110" y="115" fill="#5eead4" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="4">FLOWPATCH FIELD NOTE</text>
+<text x="110" y="245" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800">The crash window behind</text>
+<text x="110" y="335" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="800">duplicate webhook side effects</text>
+<g filter="url(#s)"><rect x="110" y="455" width="310" height="126" rx="22" fill="#1e293b" stroke="#475569" stroke-width="3"/><rect x="645" y="455" width="310" height="126" rx="22" fill="#1e293b" stroke="#475569" stroke-width="3"/><rect x="1180" y="455" width="310" height="126" rx="22" fill="#1e293b" stroke="#475569" stroke-width="3"/></g>
+<text x="265" y="510" text-anchor="middle" fill="#94a3b8" font-family="Arial" font-size="27">provider retries</text><text x="265" y="552" text-anchor="middle" fill="#fff" font-family="Arial" font-size="30" font-weight="700">same event ID</text>
+<text x="800" y="510" text-anchor="middle" fill="#94a3b8" font-family="Arial" font-size="27">worker crashes</text><text x="800" y="552" text-anchor="middle" fill="#fff" font-family="Arial" font-size="30" font-weight="700">after side effect</text>
+<text x="1335" y="510" text-anchor="middle" fill="#94a3b8" font-family="Arial" font-size="27">retry repeats</text><text x="1335" y="552" text-anchor="middle" fill="#fca5a5" font-family="Arial" font-size="30" font-weight="700">duplicate action</text>
+<path d="M430 518 H625" stroke="#5eead4" stroke-width="8"/><path d="M605 500 L635 518 605 536" fill="none" stroke="#5eead4" stroke-width="8"/><path d="M965 518 H1160" stroke="#fca5a5" stroke-width="8"/><path d="M1140 500 L1170 518 1140 536" fill="none" stroke="#fca5a5" stroke-width="8"/>
+<text x="110" y="700" fill="#cbd5e1" font-family="Arial,Helvetica,sans-serif" font-size="34">Durable acceptance · stable idempotency keys · outbox · reconciliation</text>
+<text x="110" y="770" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="28">flowpatch-reliability.github.io/flowpatch</text>
+</svg>
